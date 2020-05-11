@@ -1,0 +1,29 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+#_idContainer000, #_idContainer001, #_idContainer002, #_idContainer003, #_idContainer004, #_idContainer005, #_idContainer006, #_idContainer007, #_idContainer008, #_idContainer009, #_idContainer010, #_idContainer011, #_idContainer012, #_idContainer013, #_idContainer014, #_idContainer015, #_idContainer016, #_idContainer017, #_idContainer018, #_idContainer019, #_idContainer020, #_idContainer021, #_idContainer022, #_idContainer023, #_idContainer024, #_idContainer025, #_idContainer026, #_idContainer027, #_idContainer028, #_idContainer029, #_idContainer030, #_idContainer031, #_idContainer032, #_idContainer033, #_idContainer034, #_idContainer035, #_idContainer036, #_idContainer037, #_idContainer038, #_idContainer039, #_idContainer040, #_idContainer041, #_idContainer042, #_idContainer043, #_idContainer044, #_idContainer045, #_idContainer046, #_idContainer047, #_idContainer048, #_idContainer049, #_idContainer050, #_idContainer051, #_idContainer052, #_idContainer053, #_idContainer054, #_idContainer055, #_idContainer056, #_idContainer057, #_idContainer058, #_idContainer059, #_idContainer060, #_idContainer061, #_idContainer062, #_idContainer063, #_idContainer064, #_idContainer065, #_idContainer066, #_idContainer067, #_idContainer068, #_idContainer069, #_idContainer070, #_idContainer071, #_idContainer072, #_idContainer073, #_idContainer074, #_idContainer075, #_idContainer076, #_idContainer077, #_idContainer078, #_idContainer079, #_idContainer080, #_idContainer081, #_idContainer082, #_idContainer083, #_idContainer084, #_idContainer085, #_idContainer086, #_idContainer087, #_idContainer088, #_idContainer089, #_idContainer090, #_idContainer091, #_idContainer092, #_idContainer093, #_idContainer094, #_idContainer095, #_idContainer096, #_idContainer097, #_idContainer099 {
+	display:inline-block;
+	height:595px;
+	width:420px;
+}
+#_idContainer098 {
+	display:inline-block;
+	height:595px;
+	width:418px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
