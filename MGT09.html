@@ -8,6 +8,16 @@
 </head>
 
 <body id="MGT_09_Web">
+	<div class="nv" id="check">
+		<a href="https://sfxcmc.github.io" title="SFXC Mathematics Club">Home</a>
+		<a href="https://sfxcmc.github.io/about_us" title="SFXC Mathematics Club - About us">About us</a>
+		<a href="https://sfxcmc.github.io/challenge" title="SFXC Mathematics Club - Monthly Challenge">Monthly
+			Challenge</a>
+		<a href="https://sfxcmc.github.io/MGT" title="SFXC Mathematics Club - MGT">MGT</a>
+		<a href="javascript:void(0);" class="icon" onclick="show_ele()">
+			<i class="fa fa-bars"></i>
+		</a>
+	</div>
 	<div class="_idGenObjectLayout-1">
 		<div id="_idContainer000" class="_idGenObjectStyleOverride-1">
 			<img class="_idGenObjectAttribute-1" src="MGT_09_Web-web-resources/image/MGT_issue9_.png" alt="" />
@@ -516,7 +526,18 @@
 			xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">SFXC Mathematics Club</span> is
 		licensed
 		under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
-			Attribution-NonCommercial 4.0 International License</a>.</div>
+			Attribution-NonCommercial 4.0 International License</a>.
+	</div>
+	<script>
+		function show_ele() {
+			var x = document.getElementById("check");
+			if (x.className === "nv") {
+				x.className += " responsive";
+			} else {
+				x.className = "nv";
+			}
+		}
+	</script>
 </body>
 
 </html>
